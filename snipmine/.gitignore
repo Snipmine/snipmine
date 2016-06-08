@@ -1,0 +1,8 @@
+/target/
+.settings
+.classpath
+.prohject
+.project
+snipmine.conf
+*.iml
+.idea

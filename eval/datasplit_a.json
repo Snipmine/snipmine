@@ -1,0 +1,502 @@
+[
+  {
+    "ssh_url": "git@github.com:notnoop/java-apns.git",
+    "name": "notnoop/java-apns",
+    "size": 1897,
+    "sloc": 5606,
+    "watchers": 1294,
+    "forks": 523,
+    "before": "May 16 2016",
+    "commit": "4c0bc5efb8a30672f1d8977dad0a66c343a14d43"
+  },
+  {
+    "ssh_url": "git@github.com:perwendel/spark.git",
+    "name": "perwendel/spark",
+    "size": 3760,
+    "sloc": 9004,
+    "watchers": 4185,
+    "forks": 871,
+    "before": "May 16 2016",
+    "commit": "4db08a6e616109bf18450fc3c953ba3dbe1ed58b"
+  },
+  {
+    "ssh_url": "git@github.com:google/closure-compiler.git",
+    "name": "google/closure-compiler",
+    "size": 116660,
+    "sloc": 274473,
+    "watchers": 2272,
+    "forks": 506,
+    "before": "May 16 2016",
+    "commit": "1281ed9ded137eaf578bb65a588850bf13f38aa4"
+  },
+  {
+    "ssh_url": "git@github.com:immutables/immutables.git",
+    "name": "immutables/immutables",
+    "size": 6855,
+    "sloc": 25716,
+    "watchers": 918,
+    "forks": 58,
+    "before": "May 16 2016",
+    "commit": "3dfabeef61d5d19f584c207de7c0a523335d80b5"
+  },
+  {
+    "ssh_url": "git@github.com:RobotiumTech/robotium.git",
+    "name": "RobotiumTech/robotium",
+    "size": 2547,
+    "sloc": 6055,
+    "watchers": 1585,
+    "forks": 594,
+    "before": "May 16 2016",
+    "commit": "c4e99277b9da5a561c20952b0545e0fb4144298b"
+  },
+  {
+    "ssh_url": "git@github.com:JodaOrg/joda-time.git",
+    "name": "JodaOrg/joda-time",
+    "size": 13231,
+    "sloc": 85567,
+    "watchers": 2125,
+    "forks": 505,
+    "before": "May 16 2016",
+    "commit": "257a489c11fd4110c201d1182af4e1530573f20b"
+  },
+  {
+    "ssh_url": "git@github.com:JakeWharton/DiskLruCache.git",
+    "name": "JakeWharton/DiskLruCache",
+    "size": 1010,
+    "sloc": 1740,
+    "watchers": 2592,
+    "forks": 730,
+    "before": "May 16 2016",
+    "commit": "3aa62867b2f4f4d91798dff1bdec565fee2194c9"
+  },
+  {
+    "ssh_url": "git@github.com:Athou/commafeed.git",
+    "name": "Athou/commafeed",
+    "size": 11249,
+    "sloc": 8938,
+    "watchers": 1336,
+    "forks": 251,
+    "before": "May 16 2016",
+    "commit": "4a056a0d27a5952512c6aa87209b9b3ab6875827"
+  },
+  {
+    "ssh_url": "git@github.com:redwarp/9-Patch-Resizer.git",
+    "name": "redwarp/9-Patch-Resizer",
+    "size": 951,
+    "sloc": 1658,
+    "watchers": 728,
+    "forks": 128,
+    "before": "May 16 2016",
+    "commit": "4cf91e25f2631da672dbc28800ba1e471e25ece9"
+  },
+  {
+    "ssh_url": "git@github.com:tinkerpop/blueprints.git",
+    "name": "tinkerpop/blueprints",
+    "size": 13432,
+    "sloc": 33360,
+    "watchers": 1198,
+    "forks": 266,
+    "before": "May 16 2016",
+    "commit": "70b35dc90a11602b03afe8e0862f8a0836b34c13"
+  },
+  {
+    "ssh_url": "git@github.com:kevinsawicki/http-request.git",
+    "name": "kevinsawicki/http-request",
+    "size": 3138,
+    "sloc": 4112,
+    "watchers": 1870,
+    "forks": 512,
+    "before": "May 16 2016",
+    "commit": "2d62a3e9da726942a93cf16b6e91c0187e6c0136"
+  },
+  {
+    "ssh_url": "git@github.com:jmxtrans/jmxtrans.git",
+    "name": "jmxtrans/jmxtrans",
+    "size": 35102,
+    "sloc": 14171,
+    "watchers": 911,
+    "forks": 288,
+    "before": "May 16 2016",
+    "commit": "ef459bf136b7890ee69ea2f2f4feab0030e0702c"
+  },
+  {
+    "ssh_url": "git@github.com:jhy/jsoup.git",
+    "name": "jhy/jsoup",
+    "size": 2894,
+    "sloc": 15282,
+    "watchers": 2941,
+    "forks": 960,
+    "before": "May 16 2016",
+    "commit": "d374092e9903cf912fc4ad71b77fd947a6784b20"
+  },
+  {
+    "ssh_url": "git@github.com:javaslang/javaslang.git",
+    "name": "javaslang/javaslang",
+    "size": 11320,
+    "sloc": 46129,
+    "watchers": 885,
+    "forks": 105,
+    "before": "May 16 2016",
+    "commit": "4a1994ac34f88c53e282ac41feaf0607bc2663dd"
+  },
+  {
+    "ssh_url": "git@github.com:iluwatar/java-design-patterns.git",
+    "name": "iluwatar/java-design-patterns",
+    "size": 13861,
+    "sloc": 18021,
+    "watchers": 11527,
+    "forks": 3860,
+    "before": "May 16 2016",
+    "commit": "2ed3748c9bf0a6170cb07e647d7d758b4f6d6114"
+  },
+  {
+    "ssh_url": "git@github.com:greenrobot/essentials.git",
+    "name": "greenrobot/essentials",
+    "size": 943,
+    "sloc": 6143,
+    "watchers": 716,
+    "forks": 109,
+    "before": "May 16 2016",
+    "commit": "db8a4c7b0d24ca35a98ffbbc5e45a52252e455b6"
+  },
+  {
+    "ssh_url": "git@github.com:prestodb/presto.git",
+    "name": "prestodb/presto",
+    "size": 152562,
+    "sloc": 336269,
+    "watchers": 4764,
+    "forks": 1399,
+    "before": "May 16 2016",
+    "commit": "0e4cb822f08afd54c9875d47df551258999493d9"
+  },
+  {
+    "ssh_url": "git@github.com:mybatis/mybatis-3.git",
+    "name": "mybatis/mybatis-3",
+    "size": 69899,
+    "sloc": 50496,
+    "watchers": 2702,
+    "forks": 2109,
+    "before": "May 16 2016",
+    "commit": "104988d39bb9c3235f7bf349b34e261e2bdef7bb"
+  },
+  {
+    "ssh_url": "git@github.com:yanchenko/droidparts.git",
+    "name": "yanchenko/droidparts",
+    "size": 15977,
+    "sloc": 10657,
+    "watchers": 729,
+    "forks": 209,
+    "before": "May 16 2016",
+    "commit": "e1a9374cd646bf71b14863110104b919cc8086f6"
+  },
+  {
+    "ssh_url": "git@github.com:bytedeco/javacpp.git",
+    "name": "bytedeco/javacpp",
+    "size": 3627,
+    "sloc": 14032,
+    "watchers": 1524,
+    "forks": 184,
+    "before": "May 16 2016",
+    "commit": "7f7ef702137984c5a9430f637256c3e01f7ab934"
+  },
+  {
+    "ssh_url": "git@github.com:yinwang0/pysonar2.git",
+    "name": "yinwang0/pysonar2",
+    "size": 9076,
+    "sloc": 10471,
+    "watchers": 2093,
+    "forks": 555,
+    "before": "May 16 2016",
+    "commit": "f5f3313c6e9a0f665ff2adf51a39f555657c1353"
+  },
+  {
+    "ssh_url": "git@github.com:checkstyle/checkstyle.git",
+    "name": "checkstyle/checkstyle",
+    "size": 56480,
+    "sloc": 100039,
+    "watchers": 1069,
+    "forks": 477,
+    "before": "May 16 2016",
+    "commit": "8c6863abdf85264d2a5624e33384c9d57bf32968"
+  },
+  {
+    "ssh_url": "git@github.com:google/binnavi.git",
+    "name": "google/binnavi",
+    "size": 132792,
+    "sloc": 308469,
+    "watchers": 1857,
+    "forks": 328,
+    "before": "May 16 2016",
+    "commit": "0e17596bd5354ca846384738307853b4a1953fc4"
+  },
+  {
+    "ssh_url": "git@github.com:square/retrofit.git",
+    "name": "square/retrofit",
+    "size": 59783,
+    "sloc": 12576,
+    "watchers": 12575,
+    "forks": 2502,
+    "before": "May 16 2016",
+    "commit": "56676ab1e2701d6b25d821691c7111b46524d4ce"
+  },
+  {
+    "ssh_url": "git@github.com:VerbalExpressions/JavaVerbalExpressions.git",
+    "name": "VerbalExpressions/JavaVerbalExpressions",
+    "size": 138,
+    "sloc": 1170,
+    "watchers": 1176,
+    "forks": 121,
+    "before": "May 16 2016",
+    "commit": "6cfe719e695d2f3bc8aa073121f1673be7842f18"
+  },
+  {
+    "ssh_url": "git@github.com:apache/mahout.git",
+    "name": "apache/mahout",
+    "size": 50986,
+    "sloc": 109436,
+    "watchers": 820,
+    "forks": 612,
+    "before": "May 16 2016",
+    "commit": "79a70dff924d30e634672e58ecc6cfac3265f82e"
+  },
+  {
+    "ssh_url": "git@github.com:webbit/webbit.git",
+    "name": "webbit/webbit",
+    "size": 26174,
+    "sloc": 7356,
+    "watchers": 710,
+    "forks": 154,
+    "before": "May 16 2016",
+    "commit": "f628a7a3ffdd8c288514784f5b0426faaee2a2e3"
+  },
+  {
+    "ssh_url": "git@github.com:killbill/killbill.git",
+    "name": "killbill/killbill",
+    "size": 662735,
+    "sloc": 124837,
+    "watchers": 1131,
+    "forks": 175,
+    "before": "May 16 2016",
+    "commit": "bb2240fd0e5068dee939dfe845748cedf5c31711"
+  },
+  {
+    "ssh_url": "git@github.com:nutzam/nutz.git",
+    "name": "nutzam/nutz",
+    "size": 54801,
+    "sloc": 76257,
+    "watchers": 959,
+    "forks": 661,
+    "before": "May 16 2016",
+    "commit": "29ed066e85c39e42a4c2fa93402d2a2d8f738e7d"
+  },
+  {
+    "ssh_url": "git@github.com:ronmamo/reflections.git",
+    "name": "ronmamo/reflections",
+    "size": 271,
+    "sloc": 4245,
+    "watchers": 905,
+    "forks": 164,
+    "before": "May 16 2016",
+    "commit": "b2114c7d5a0a001ccccf8e1498c54d0b3e5c9016"
+  },
+  {
+    "ssh_url": "git@github.com:tinkerpop/gremlin.git",
+    "name": "tinkerpop/gremlin",
+    "size": 14323,
+    "sloc": 4766,
+    "watchers": 1501,
+    "forks": 164,
+    "before": "May 16 2016",
+    "commit": "2b03b5fda361acd4fc3d651aa75dd67f9cb4d334"
+  },
+  {
+    "ssh_url": "git@github.com:AsyncHttpClient/async-http-client.git",
+    "name": "AsyncHttpClient/async-http-client",
+    "size": 22112,
+    "sloc": 33395,
+    "watchers": 2885,
+    "forks": 860,
+    "before": "May 16 2016",
+    "commit": "ebd014f8ed6415c6587faa81f4176b92d952c45b"
+  },
+  {
+    "ssh_url": "git@github.com:Prototik/HoloEverywhere.git",
+    "name": "Prototik/HoloEverywhere",
+    "size": 25505,
+    "sloc": 53948,
+    "watchers": 2284,
+    "forks": 759,
+    "before": "May 16 2016",
+    "commit": "b870abb5ab009a5a6dbab3fb855ec2854e35e125"
+  },
+  {
+    "ssh_url": "git@github.com:jfinal/jfinal.git",
+    "name": "jfinal/jfinal",
+    "size": 32266,
+    "sloc": 13985,
+    "watchers": 1205,
+    "forks": 773,
+    "before": "May 16 2016",
+    "commit": "0f6641af1c4c1f8badce5f77db941949387e485e"
+  },
+  {
+    "ssh_url": "git@github.com:JakeWharton/ViewPagerIndicator.git",
+    "name": "JakeWharton/ViewPagerIndicator",
+    "size": 8657,
+    "sloc": 3072,
+    "watchers": 7466,
+    "forks": 3931,
+    "before": "May 16 2016",
+    "commit": "8cd549f23f3d20ff920e19a2345c54983f65e26b"
+  },
+  {
+    "ssh_url": "git@github.com:google/guava.git",
+    "name": "google/guava",
+    "size": 115612,
+    "sloc": 243253,
+    "watchers": 9299,
+    "forks": 2163,
+    "before": "May 16 2016",
+    "commit": "47b464a12eb901ad935b43a8720a152cb3a1fd4b"
+  },
+  {
+    "ssh_url": "git@github.com:clojure/clojure.git",
+    "name": "clojure/clojure",
+    "size": 15043,
+    "sloc": 39086,
+    "watchers": 5332,
+    "forks": 920,
+    "before": "May 16 2016",
+    "commit": "d5708425995e8c83157ad49007ec2f8f43d8eac8"
+  },
+  {
+    "ssh_url": "git@github.com:square/javapoet.git",
+    "name": "square/javapoet",
+    "size": 1979,
+    "sloc": 7377,
+    "watchers": 1962,
+    "forks": 280,
+    "before": "May 16 2016",
+    "commit": "93a496c900678768479bda5d19cc70f666d88c5c"
+  },
+  {
+    "ssh_url": "git@github.com:guardianproject/ChatSecureAndroid.git",
+    "name": "guardianproject/ChatSecureAndroid",
+    "size": 60625,
+    "sloc": 36865,
+    "watchers": 971,
+    "forks": 540,
+    "before": "May 16 2016",
+    "commit": "30f54a4fa3b6323b1ed49a2d338521ab435fc062"
+  },
+  {
+    "ssh_url": "git@github.com:mrniko/redisson.git",
+    "name": "mrniko/redisson",
+    "size": 4491,
+    "sloc": 39055,
+    "watchers": 1191,
+    "forks": 389,
+    "before": "May 16 2016",
+    "commit": "62712c656db01809e32a567020a31fdb7ddb12dc"
+  },
+  {
+    "ssh_url": "git@github.com:rest-assured/rest-assured.git",
+    "name": "jayway/rest-assured",
+    "size": 8790,
+    "sloc": 28505,
+    "watchers": 1127,
+    "forks": 309,
+    "before": "May 16 2016",
+    "commit": "d168324a6e4f1585bd024d2cef366985bcab75c2"
+  },
+  {
+    "ssh_url": "git@github.com:xetorthio/jedis.git",
+    "name": "xetorthio/jedis",
+    "size": 91743,
+    "sloc": 26404,
+    "watchers": 3652,
+    "forks": 1706,
+    "before": "May 16 2016",
+    "commit": "f19aa6808017184bfb71e7cff269269068bf8978"
+  },
+  {
+    "ssh_url": "git@github.com:yahoo/mysql_perf_analyzer.git",
+    "name": "yahoo/mysql_perf_analyzer",
+    "size": 7034,
+    "sloc": 25061,
+    "watchers": 1234,
+    "forks": 169,
+    "before": "May 16 2016",
+    "commit": "bce54e9c449ef795800ddbf29e150d4a5cb8f779"
+  },
+  {
+    "ssh_url": "git@github.com:twitter/ambrose.git",
+    "name": "twitter/ambrose",
+    "size": 14115,
+    "sloc": 4480,
+    "watchers": 1099,
+    "forks": 190,
+    "before": "May 16 2016",
+    "commit": "24a51362e050b83ca69e1fb2670e93000655ad8b"
+  },
+  {
+    "ssh_url": "git@github.com:graphhopper/graphhopper.git",
+    "name": "graphhopper/graphhopper",
+    "size": 96636,
+    "sloc": 46482,
+    "watchers": 777,
+    "forks": 363,
+    "before": "May 16 2016",
+    "commit": "ba1e19162d2cb877533cdc40caecafc4e31231de"
+  },
+  {
+    "ssh_url": "git@github.com:mrniko/netty-socketio.git",
+    "name": "mrniko/netty-socketio",
+    "size": 2192,
+    "sloc": 5784,
+    "watchers": 1187,
+    "forks": 393,
+    "before": "May 16 2016",
+    "commit": "891c467a84664d3f8b1ca4f420db850b5cb8485b"
+  },
+  {
+    "ssh_url": "git@github.com:linkedin/indextank-engine.git",
+    "name": "linkedin/indextank-engine",
+    "size": 3648,
+    "sloc": 85723,
+    "watchers": 814,
+    "forks": 107,
+    "before": "May 16 2016",
+    "commit": "f2354fe9db43786126e304d12aae4322ae7b98b1"
+  },
+  {
+    "ssh_url": "git@github.com:androidquery/androidquery.git",
+    "name": "androidquery/androidquery",
+    "size": 17080,
+    "sloc": 12933,
+    "watchers": 1886,
+    "forks": 606,
+    "before": "May 16 2016",
+    "commit": "45ed6c85dcf0b3b58a08810b423886fb275b33b0"
+  },
+  {
+    "ssh_url": "git@github.com:Netflix/curator.git",
+    "name": "Netflix/curator",
+    "size": 7545,
+    "sloc": 1196,
+    "watchers": 1363,
+    "forks": 320,
+    "before": "May 16 2016",
+    "commit": "7fa8c085f45977be1db980731f4faf580925db08"
+  },
+  {
+    "ssh_url": "git@github.com:square/moshi.git",
+    "name": "square/moshi",
+    "size": 783,
+    "sloc": 9623,
+    "watchers": 1796,
+    "forks": 141,
+    "before": "May 16 2016",
+    "commit": "c4896fdaed5b8d0475048f62fe9bd2bd93ce1656"
+  }
+]
